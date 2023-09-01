@@ -1,0 +1,13 @@
+.app-container {
+  font-family: "Abel", sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgb(6, 1, 95) 0%,
+    rgb(14, 117, 138) 61%,
+    rgba(104, 38, 130, 1) 91%,
+    rgba(121, 9, 109, 1) 100%
+  );
+  padding: 5px 0;
+}

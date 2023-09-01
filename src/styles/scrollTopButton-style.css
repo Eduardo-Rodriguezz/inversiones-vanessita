@@ -1,0 +1,18 @@
+.scroll-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20%;
+  background-color: #4860e9;
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+  border: none;
+  padding: 10px;
+  border-radius: 50%;
+  border: 2px solid white;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.scroll-button.visible {
+  opacity: 1;
+}

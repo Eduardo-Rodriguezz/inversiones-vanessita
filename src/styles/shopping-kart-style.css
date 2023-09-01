@@ -1,0 +1,26 @@
+.shooping-kart-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  margin: 1em 0;
+  min-height: 50vh;
+}
+
+.btn-table {
+  width: 100%;
+}
+
+.unit-resaltar {
+  margin: 3px;
+  padding: 1px 8px;
+  color: #00ff15;
+  background: rgb(29, 29, 28);
+  border-radius: 5px;
+}
+
+.green-celda {
+  background: green;
+  color: red;
+}

@@ -1,0 +1,20 @@
+.footer-container {
+  border-radius: 10px;
+  display: grid;
+  place-content: center;
+  height: 10vh;
+  color: #fff;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 9, 113, 1) 43%,
+    rgb(8, 82, 143) 100%
+  );
+
+  .footer-text {
+    padding-top: 1.5em;
+    text-align: center;
+    font-size: 0.7em;
+  }
+}

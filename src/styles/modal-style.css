@@ -1,0 +1,26 @@
+.modal-container {
+  font-family: 'Abel', sans-serif;
+  color: #fff;
+
+  background: rgb(60, 85, 219);
+  background: linear-gradient(
+    0deg,
+    rgba(60, 85, 219, 1) 0%,
+    rgba(101, 54, 106, 1) 72%
+  );
+  font-size: 1.2em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+.modal-header {
+  color: #fff;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(49, 57, 113, 1) 0%,
+    rgba(9, 97, 115, 1) 61%,
+    rgba(104, 38, 130, 1) 100%,
+    rgba(121, 9, 109, 1) 100%
+  );
+}
