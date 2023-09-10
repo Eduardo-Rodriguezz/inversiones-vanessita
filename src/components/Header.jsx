@@ -14,7 +14,7 @@ const Header = () => {
 
   return (
     <div className="header-container container">
-      <a href="#" className="header-title" style={linkStyles}>
+      <a href="/" className="header-title" style={linkStyles}>
         <img src={logoVanessita} alt="logo-vanessita" className="img-logo" />
         <h3>
           Inversiones
